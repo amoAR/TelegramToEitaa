@@ -74,4 +74,4 @@ Get started in no time! Just follow these steps:
 
 ---
 
-🔸 © 2024 amoAR | Licensed under the [GPL-3.0]() license.
+🔸 © 2024 amoAR | Licensed under the [GPL-3.0](https://github.com/amoAR/TelegramToEitaa/blob/main/LICENSE) license.
