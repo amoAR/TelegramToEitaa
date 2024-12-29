@@ -37,7 +37,7 @@ ASCII_ART = r"""
    ╚═╝   ╚══════╝╚══════╝╚══════╝╚══════╝╚═╝   ╚═╝  ╚═╝  ╚═╝╚═╝  ╚═╝
                             TeleEitaa
 """
-TAGLINE = "\t\tTelegram medias to Eitaa \033[4meffortlessly\033[0m"
+TAGLINE = "\t\tTelegram media to Eitaa \033[4meffortlessly\033[0m"
 
 # Function to display the startup screen
 def show_startup():
